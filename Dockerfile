@@ -1,0 +1,1 @@
+# Dockerfile content as in document
